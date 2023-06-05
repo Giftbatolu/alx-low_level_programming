@@ -1,0 +1,1 @@
+This is about how to use memset function, memcpy function, strchr function, strspn function, strpbrk function, strstr function, function to print a chessboard and function that print sum of two diagonals of a square matrix of an integers 
