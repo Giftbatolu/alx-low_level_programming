@@ -2,7 +2,6 @@
 
 /**
  * print_alphabet - function that print alphabet in lowercase
- * @ch: lowercase character to be checked.
  *
  * Return: Always 0.
  */
